@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux-Authorization/static/css/main.8663ee61.css",
+    "main.js": "/Redux-Authorization/static/js/main.07593704.js",
+    "index.html": "/Redux-Authorization/index.html",
+    "main.8663ee61.css.map": "/Redux-Authorization/static/css/main.8663ee61.css.map",
+    "main.07593704.js.map": "/Redux-Authorization/static/js/main.07593704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8663ee61.css",
+    "static/js/main.07593704.js"
+  ]
+}
